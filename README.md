@@ -1,1 +1,3 @@
-# Linux terminal (GitBash) commands
+#Linux terminal (GitBash) commands
+HW_1 - Задачи на знание основных linux команд
+HW_2 - Задачи на знание основных linux команд и объединение нескольких команд в терминале
